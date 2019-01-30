@@ -1,2 +1,3 @@
-for (var x = 4 - 1; x >= 0; x--)
-    console.log(x);
+for (let i = 3; i >= 0; i--){
+      console.log(i);
+}
